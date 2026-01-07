@@ -94,7 +94,6 @@ Building data-driven solutions and intelligent applications
 ---
 
 ## 🌐 Portfolio & Profiles
-- 💼 **Portfolio:** *(add link here)*  
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/raj-wagh-3962bb259  
 - 📊 **Tableau Public:** https://public.tableau.com/app/profile/raj.wagh3264/vizzes  
 
