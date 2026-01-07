@@ -13,37 +13,72 @@ Building data-driven solutions and intelligent applications
 - 📈 Dashboards & Visualization  
 - 🌐 Data-driven Web Apps  
 
+---
 ## 🛠 Tech Stack
 
-<p align="center">
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" style="border: none;" width="120">
+      <img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python
+    </td>
+    <td align="center" style="border: none;" width="120">
+      <img src="https://skillicons.dev/icons?i=java" width="48"/><br>Java
+    </td>
+    <td align="center" style="border: none;" width="120">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL
+    </td>
+    <td align="center" style="border: none;" width="120">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br>TensorFlow
+    </td>
+  </tr>
 
-<img src="https://skillicons.dev/icons?i=python" width="50"/><br>Python<br><br>
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48"/><br>OpenCV
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/><br>Pandas
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/><br>NumPy
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" width="48"/><br>Power BI
+    </td>
+  </tr>
 
-<img src="https://skillicons.dev/icons?i=java" width="50"/><br>Java<br><br>
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="48"/><br>Tableau
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code
+    </td>
+  </tr>
 
-<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>MySQL<br><br>
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48"/><br>Jupyter
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=streamlit" width="48"/><br>Streamlit
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/><br>Linux
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="48"/><br>Excel
+    </td>
+  </tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=tensorflow" width="50"/><br>TensorFlow<br><br>
 
-<img src="https://skillicons.dev/icons?i=opencv" width="50"/><br>OpenCV<br><br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/><br>Pandas<br><br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/><br>NumPy<br><br>
-
-<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" width="50"/><br>Power BI<br><br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="50"/><br>Tableau<br><br>
-
-<img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git<br><br>
-
-<img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub<br><br>
-
-<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VS Code<br><br>
-
-<img src="https://skillicons.dev/icons?i=jupyter" width="50"/><br>Jupyter<br><br>
-
-</p>
 
 ---
 
